@@ -1,0 +1,15 @@
+apiVersion: v2
+name: sbc-exporter
+description: A Prometheus exporter for Single Board Computers (SBC) metrics
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+keywords:
+  - prometheus
+  - exporter
+  - sbc
+  - raspberry-pi
+  - rockchip
+maintainers:
+  - name: Yuri Freire Lima
+home: https://github.com/yurifrl/home-systems-enterprise/sbc_exporter 
